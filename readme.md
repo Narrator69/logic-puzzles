@@ -31,13 +31,13 @@
 Потом охранник обращается к Барри. Барри тоже умен и рационален, но он тоже не может ответить. Тогда охранник подходит к вам и вы называете ему цвет вашей шапки со 100-процентной уверенностью.
 У охранника не остается выхода, и ему приходится отпустить всех троих.
 Какого же цвета была ваша шапка и как вы это узнали?
-!(https://github.com/Narrator69/logic-puzzles/blob/master/pics/freedom.png?raw=true)
+![alt ](https://github.com/Narrator69/logic-puzzles/blob/master/pics/freedom.png?raw=true "")
 
 ## Бананза
-!(https://github.com/Narrator69/logic-puzzles/blob/master/pics/bananza.jpg?raw=true)
+![alt ](https://github.com/Narrator69/logic-puzzles/blob/master/pics/bananza.jpg?raw=true "")
 
 ## Тетраэдр
 Дети, живущие в 4-мерном пространстве, не строят карточные домики — это очень скучно.
 Вместо этого они строят вот такие пирамидки: опирают тетраэдр очередного слоя на три вершины предыдущего.
 Каждый маленький тетраэдр весит 1 грамм и имеет высоту 1 см. Сколько весит пирамидка высотой в метр?
-!(https://github.com/Narrator69/logic-puzzles/blob/master/pics/tetrahedron.png?raw=true)
+![alt ](https://github.com/Narrator69/logic-puzzles/blob/master/pics/tetrahedron.png?raw=true "")
